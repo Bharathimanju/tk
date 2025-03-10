@@ -108,3 +108,16 @@
         grid-template-columns: repeat(1, 1fr);
     }
 }
+/* button */
+.to{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 4px;
+    border-radius: 5px;
+    
+}
+.to:hover{
+    color: white;
+    background-color: rgb(50, 43, 43);
+    
+}
